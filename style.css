@@ -508,6 +508,9 @@ section .title::after {
   font-weight: 600;
   margin-bottom: 10px;
 }
+.main {
+  margin-top: -200px;
+}
 .contact .contact-content .left p {
   text-align: justify;
 }
@@ -592,7 +595,14 @@ section .title::after {
   color: crimson;
   background: none;
 }
-
+.send {
+  background-color: crimson;
+  color: #fff;
+  border: 2px solid crimson;
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 6px;
+}
 /* footer section styling */
 footer {
   background: #111;
