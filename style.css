@@ -700,6 +700,13 @@ footer span a:hover {
     width: 100%;
     margin-bottom: 35px;
   }
+  .contact .right form .name,
+  .contact .right form .email {
+    margin: 0;
+  }
+  .main {
+    margin-top: 30px;
+  }
 }
 
 @media (max-width: 690px) {
@@ -737,6 +744,9 @@ footer span a:hover {
   .contact .right form .name,
   .contact .right form .email {
     margin: 0;
+  }
+  .main {
+    margin-top: 30px;
   }
   .scroll-up-btn {
     right: 15px;
