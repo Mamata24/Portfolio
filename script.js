@@ -42,7 +42,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["HTML5.", "CSS3.", "JavaScript.", "ReactJS.", "MongoDB.","ExpressJS.","NodeJS."],
+        strings: ["GIT.", "HTML5.", "CSS3.","Bootstrap.", "JavaScript.", "ReactJS.","Material UI.","Ant Design.", "Redux.","Hooks.","MongoDB.","ExpressJS.","NodeJS.","Oracle DB.","MySql.","Postgresql"],
         typeSpeed: 60,
         backSpeed: 60,
         loop: true
